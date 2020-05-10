@@ -1,2 +1,2 @@
-# yoml
-YOML
+# yo-ml
+Yo-ML
